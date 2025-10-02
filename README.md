@@ -157,9 +157,3 @@ GROUP BY cuisine
 ORDER BY restaurant_count DESC;
 ```
 Shows variety of cuisine options available.
-
----
-
-**Course:** IDS706 - Data Engineering  
-**Institution:** Duke University  
-**Date:** October 
